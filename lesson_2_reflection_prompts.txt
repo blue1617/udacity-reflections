@@ -17,3 +17,7 @@ the diagram the way we do?
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+=> I think I would make a commit to the staging area per logical change, as mentioned in the question, so I would run "git add" and "git commit" for each one to add them to my stage.
+
